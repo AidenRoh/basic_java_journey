@@ -5,24 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f031628-1312-41f0-b2ac-8da06b3a5c3f" name="Changes" comment="230814">
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec03/chap07/Eg01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec03/chap07/Eg02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec03/chap07/Eg03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec03/chap07/Eg04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec03/chap07/Eg05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec03/chap08/Eg01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec03/chap08/Eg02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec03/chap08/Eg03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec03/chap08/Eg04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec03/chap08/Eg05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec03/chap08/Eg06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec03/chap08/Eg07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap01/Eg01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap01/Eg02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap01/Eg03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap01/Eg04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap02/Eg01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap02/Eg02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap02/Eg03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap02/Eg04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap02/Eg05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap03/Eg01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap03/Eg02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap03/Eg03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap03/Eg04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap03/Eg05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,15 +41,15 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/aiden/Desktop/Portfolio/Backend/basic_java_journey/basic_java_journey/src&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/aiden/Desktop/Portfolio/Backend/basic_java_journey/basic_java_journey/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/aiden/Desktop/Portfolio/Backend/basic_java_journey/basic_java_journey",
+    "onboarding.tips.debug.path": "/Users/aiden/Desktop/Portfolio/Backend/basic_java_journey/basic_java_journey/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
