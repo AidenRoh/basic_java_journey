@@ -4,22 +4,86 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f031628-1312-41f0-b2ac-8da06b3a5c3f" name="Changes" comment="230814">
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap01/Eg01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap01/Eg02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap01/Eg03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap01/Eg04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap02/Eg01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap02/Eg02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap02/Eg03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap02/Eg04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap02/Eg05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap03/Eg01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap03/Eg02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap03/Eg03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap03/Eg04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec04/chap03/Eg05.java" afterDir="false" />
+    <list default="true" id="5f031628-1312-41f0-b2ac-8da06b3a5c3f" name="Changes" comment="230817">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap04WhileAndDoWhile/Eg01WhileTrue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap04WhileAndDoWhile/Eg02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap04WhileAndDoWhile/Eg03DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap04WhileAndDoWhile/Eg04Overlap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap05Method/Eg01Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap05Method/Eg02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap05Method/Eg03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap05Method/Eg04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap05Method/Eg05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec02/chap03/Eg01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec02/chap03/Eg01DataType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec02/chap03/Eg02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec02/chap03/Eg02Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec02/chap03/Eg03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec02/chap03/Eg03AssignmentOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec02/chap03/Eg04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec02/chap03/Eg04AssignmentOperator2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec02/chap03/Eg05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec02/chap03/Eg05Invariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap01/Eg01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap01IntTypeAndOperator/Eg01DataDynamicRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap01/Eg02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap01IntTypeAndOperator/Eg02Casting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap01/Eg03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap01IntTypeAndOperator/Eg03OrderOfCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap01/Eg04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap01IntTypeAndOperator/Eg04NumberTypeRules.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap01/Eg05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap01IntTypeAndOperator/Eg05ComplexCalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap01/Eg06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap01IntTypeAndOperator/Eg06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap01/Eg07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap01IntTypeAndOperator/Eg07WhatIfTheyAreOverTheRangeOfType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap01/Eg08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap01IntTypeAndOperator/Eg08UnaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap01/Eg09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap01IntTypeAndOperator/Eg09ComparisonOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap02/Eg01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap02RealNumberTypes/Eg01RealNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap02/Eg02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap02RealNumberTypes/Eg02ConparisonOfMaxMinValueOfDiffTypeOfRL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap02/Eg03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap02RealNumberTypes/Eg03RealNumberTypeRules.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap02/Eg04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap02RealNumberTypes/Eg04AboutFloatType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap02/Eg05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap02RealNumberTypes/Eg05RelesOfCalCulationOfRealNumberAndInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap02/Eg06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap02RealNumberTypes/Eg06ComparisonOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap03/Eg01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap03CharacterType/Eg01Character.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap03/Eg02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap03CharacterType/Eg02CharacterAndNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap03/Eg03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap03CharacterType/Eg03ComparisonOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap04/Eg01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap04BooleanTypeAndOperator/Eg01Boolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap04/Eg02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap04BooleanTypeAndOperator/Eg02AndOr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap04/Eg03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap04BooleanTypeAndOperator/Eg03ShortCircuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap04/Eg04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap04BooleanTypeAndOperator/Eg04ConditionOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap05/Eg01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap05StringTypeAndBasicInstruction/Eg01StringType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap05/Eg02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap05StringTypeAndBasicInstruction/Eg02StringTypeEqualRules.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap05/Eg03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap05StringTypeAndBasicInstruction/Eg03Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap05/Eg04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap05StringTypeAndBasicInstruction/Eg04TypeConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap05/Eg05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap05StringTypeAndBasicInstruction/Eg05EscapeSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap06StringTypeAndMethods/Eg01Length.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap06StringTypeAndMethods/Eg02LengthIsEmptyIsBlankTrim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap06StringTypeAndMethods/Eg03CharAtIndexOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap06StringTypeAndMethods/Eg04EqualsContainsMatches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap06StringTypeAndMethods/Eg05CompareTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap06StringTypeAndMethods/Eg06ToUpperCaseToLowerCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap06StringTypeAndMethods/Eg07ConcatStringBuilderAppend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap06StringTypeAndMethods/Eg08RepeatSubStringReplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap06/Eg09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap06StringTypeAndMethods/Eg09ToCharArraySplit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap07/Eg01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap07StringFormattingAndNull/Eg01Formatting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap07/Eg02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap07StringFormattingAndNull/Eg02FormatInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap07/Eg03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap07StringFormattingAndNull/Eg03FormatRealNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap07/Eg04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap07StringFormattingAndNull/Eg04FormatString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap07/Eg05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap07StringFormattingAndNull/Eg05StringTypeOfNull.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap08/Eg01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap08Array/Eg01BasicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap08/Eg02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap08Array/Eg02ArrayInitialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap08/Eg03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap08Array/Eg03MultipleArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap08/Eg04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap08Array/Eg04PrimitiveTypeVsReferenceType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap08/Eg05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap08Array/Eg05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap08/Eg06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap08Array/Eg06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap08/Eg07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap08Array/Eg07StringTypeArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec03/chap09/Eg01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap09TypeInference/Eg01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec04/chap01/Eg01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap01IfElse/Eg01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec04/chap01/Eg02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap01IfElse/Eg02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec04/chap01/Eg03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap01IfElse/Eg03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec04/chap01/Eg04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap01IfElse/Eg04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec04/chap02/Eg01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap02Switch/Eg01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec04/chap02/Eg02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap02Switch/Eg02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec04/chap02/Eg03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap02Switch/Eg03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec04/chap02/Eg04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap02Switch/Eg04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec04/chap02/Eg05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap02Switch/Eg05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec04/chap03/Eg01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap03ForAndForEach/Eg01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec04/chap03/Eg02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap03ForAndForEach/Eg02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec04/chap03/Eg03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap03ForAndForEach/Eg03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec04/chap03/Eg04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap03ForAndForEach/Eg04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/yalco/sec04/chap03/Eg05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/yalco/sec04ControlStatementAndMethods/chap03ForAndForEach/Eg05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +109,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/aiden/Desktop/Portfolio/Backend/basic_java_journey/basic_java_journey",
     "onboarding.tips.debug.path": "/Users/aiden/Desktop/Portfolio/Backend/basic_java_journey/basic_java_journey/src/Main.java"
@@ -61,12 +126,12 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Eg05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="yalco.sec03.chap06.Eg05" />
+    <configuration name="Eg05CompareTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yalco.sec03JavaTypesAndOperator.chap06StringTypeAndMethods.Eg05CompareTo" />
       <module name="basic_java_journey" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="yalco.sec03.chap06.*" />
+          <option name="PATTERN" value="yalco.sec03JavaTypesAndOperator.chap06StringTypeAndMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,7 +141,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Eg05" />
+        <item itemvalue="Application.Eg05CompareTo" />
       </list>
     </recent_temporary>
   </component>
@@ -110,14 +175,22 @@
       <option name="project" value="LOCAL" />
       <updated>1692021365534</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="230817">
+      <created>1692237141949</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692237141949</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="230811" />
     <MESSAGE value="230813" />
     <MESSAGE value="230814" />
-    <option name="LAST_COMMIT_MESSAGE" value="230814" />
+    <MESSAGE value="230817" />
+    <option name="LAST_COMMIT_MESSAGE" value="230817" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -128,12 +201,12 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/yalco/sec03/chap06/Eg05.java</url>
+          <url>file://$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap06StringTypeAndMethods/Eg05CompareTo.java</url>
           <line>32</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/yalco/sec03/chap08/Eg06.java</url>
+          <url>file://$PROJECT_DIR$/src/yalco/sec03JavaTypesAndOperator/chap08Array/Eg06.java</url>
           <line>17</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
