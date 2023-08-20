@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f031628-1312-41f0-b2ac-8da06b3a5c3f" name="Changes" comment="230819">
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap01Class/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap01Class/eg01/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap01Class/eg01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap01Class/eg02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap01Class/eg02/YalcoChicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap01Class/eg03/YalcoChicken.java" afterDir="false" />
+    <list default="true" id="5f031628-1312-41f0-b2ac-8da06b3a5c3f" name="Changes" comment="230820">
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap02ClassEGs/eg01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap02ClassEGs/eg01/Slime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap02ClassEGs/eg02/IntArrayInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap02ClassEGs/eg02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap02ClassEGs/eg03/ChickenMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap02ClassEGs/eg03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap02ClassEGs/eg03/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap02ClassEGs/eg03/YalcoChicken.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692456815639</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="230820">
+      <created>1692533467301</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692533467301</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -134,7 +143,8 @@
     <MESSAGE value="230817" />
     <MESSAGE value="230818" />
     <MESSAGE value="230819" />
-    <option name="LAST_COMMIT_MESSAGE" value="230819" />
+    <MESSAGE value="230820" />
+    <option name="LAST_COMMIT_MESSAGE" value="230820" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
