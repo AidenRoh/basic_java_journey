@@ -1,4 +1,4 @@
-package yalco.sec05OOP.chap05Extends.eg02;
+package yalco.sec05OOP.chap06Polymorphism.eg01;
 
 public class Button {
     private String print;

@@ -1,6 +1,6 @@
-package yalco.sec05OOP.chap05Extends.eg01;
+package yalco.sec05OOP.chap06Polymorphism.eg02;
 
-public class YalcoChickenDT extends YalcoChicken {
+public class YalcoChickenDT extends YalcoChicken { // 상속한다는 것은 상위클래스의 맴버들 (YalcoChicken의 필드 메서드 내부 클래스를) 을 공유하는 것을 의미합니다.
     private boolean driveThruOpen = true;
 
     public YalcoChickenDT(int no, String name) {

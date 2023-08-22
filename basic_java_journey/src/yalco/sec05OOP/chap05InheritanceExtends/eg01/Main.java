@@ -1,4 +1,4 @@
-package yalco.sec05OOP.chap05Extends.eg01;
+package yalco.sec05OOP.chap05InheritanceExtends.eg01;
 
 public class Main {
     public static void main(String[] args) {

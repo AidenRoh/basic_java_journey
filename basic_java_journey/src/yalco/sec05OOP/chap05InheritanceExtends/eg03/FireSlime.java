@@ -1,4 +1,4 @@
-package yalco.sec05OOP.chap05Extends.eg03;
+package yalco.sec05OOP.chap05InheritanceExtends.eg03;
 
 public class FireSlime extends Slime {
     private int fireAttack = 4;

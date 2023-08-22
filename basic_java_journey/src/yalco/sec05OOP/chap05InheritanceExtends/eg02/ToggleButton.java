@@ -1,4 +1,4 @@
-package yalco.sec05OOP.chap05Extends.eg02;
+package yalco.sec05OOP.chap05InheritanceExtends.eg02;
 
 public class ToggleButton extends Button {
     private boolean on;
