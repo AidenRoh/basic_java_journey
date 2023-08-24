@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f031628-1312-41f0-b2ac-8da06b3a5c3f" name="Changes" comment="230822">
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap09Interface/eg01/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap09Interface/eg01/Eagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap09Interface/eg01/Flyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap09Interface/eg01/GlidingLizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap09Interface/eg01/Hunter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap09Interface/eg01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap09Interface/eg01/Mamal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap09Interface/eg01/PolarBear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap09Interface/eg01/Reptile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap09Interface/eg01/Swimmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap09Interface/eg02/FoodSafety.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap09Interface/eg02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap09Interface/eg02/YalcoChicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap10singleton/eg01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap10singleton/eg01/Setting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap10singleton/eg01/Tab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap10singleton/eg02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap10singleton/eg02/Setting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap10singleton/eg02/Tab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap10singleton/eg03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap10singleton/eg03/Setting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yalco/sec05OOP/chap10singleton/eg03/Tab.java" afterDir="false" />
+    <list default="true" id="5f031628-1312-41f0-b2ac-8da06b3a5c3f" name="Changes" comment="230823">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692687027737</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="230823">
+      <created>1692783628252</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1692783628252</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -184,7 +169,8 @@
     <MESSAGE value="230820" />
     <MESSAGE value="230821" />
     <MESSAGE value="230822" />
-    <option name="LAST_COMMIT_MESSAGE" value="230822" />
+    <MESSAGE value="230823" />
+    <option name="LAST_COMMIT_MESSAGE" value="230823" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
