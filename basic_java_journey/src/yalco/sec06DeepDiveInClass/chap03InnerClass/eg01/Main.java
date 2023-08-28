@@ -1,5 +1,7 @@
 package yalco.sec06DeepDiveInClass.chap03InnerClass.eg01;
 
+import yalco.sec06DeepDiveInClass.chap03InnerClass.eg02.YalcoChicken;
+
 public class Main {
     public static void main(String[] args) {
         //  ⭐️ 클래스가 클래스 필드인 것 - 아래의 변수는 인스턴스
@@ -12,7 +14,6 @@ public class Main {
         outer.innerFuncs();
 
         System.out.println("\n- - - - -\n");
-
 
         //  ⚠️  아래와 같은 사용은 불가
         //  Outer.InnerInstMember innerInstMember = new outer.InnerInstMember();
