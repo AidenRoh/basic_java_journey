@@ -1,4 +1,4 @@
-package yalco.sec07ClassAndReferenceType.object.eg03hashcode;
+package yalco.sec07ClassAndReferenceType.chap01Object.eg02Equals;
 
 public class Click {
     int x;
@@ -13,7 +13,8 @@ public class Click {
 
     //  ⭐️ 아래를 주석해제하고 다시 실행해 볼 것
     //  @Override
-    //  public int hashCode() {
-    //      return x * 100000 + y;
+    //  public boolean equals(Object obj) {
+    //      if (!(obj instanceof Click)) return false;
+    //      return this.x == ((Click) obj).x && this.y == ((Click) obj).y;
     //  }
 }

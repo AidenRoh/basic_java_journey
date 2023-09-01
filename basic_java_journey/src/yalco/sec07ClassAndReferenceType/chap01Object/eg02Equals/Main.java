@@ -1,4 +1,4 @@
-package yalco.sec07ClassAndReferenceType.object.eg02Equals;
+package yalco.sec07ClassAndReferenceType.chap01Object.eg02Equals;
 
 public class Main {
     public static void main(String[] args) {

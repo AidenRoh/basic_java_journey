@@ -1,4 +1,4 @@
-package yalco.sec07ClassAndReferenceType.object.eg04Clone;
+package yalco.sec07ClassAndReferenceType.chap01Object.eg04Clone;
 
 public class NotCloneable {
     //  원시타입 필드들

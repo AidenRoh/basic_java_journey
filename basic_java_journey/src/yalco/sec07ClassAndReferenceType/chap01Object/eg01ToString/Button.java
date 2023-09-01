@@ -1,4 +1,4 @@
-package yalco.sec07ClassAndReferenceType.object.eg01ToString;
+package yalco.sec07ClassAndReferenceType.chap01Object.eg01ToString;
 
 public class Button {
     public enum Mode {

@@ -1,4 +1,4 @@
-package yalco.sec07ClassAndReferenceType.object.eg03hashcode;
+package yalco.sec07ClassAndReferenceType.chap01Object.eg03hashcode;
 
 public class Main {
     public static void main(String[] args) {
