@@ -1,15 +1,8 @@
 package yalco.sec07ClassAndReferenceType.chap03Generic.eg01;
 
+import yalco.sec05OOP.chap08AbstractClass.eg01.YalcoChicken;
 public class Main {
     public static void main(String[] args) {
-        //  제네릭 메소드
-        //  T : 타입변수. 원하는 어떤 이름으로든 명명 가능
-        public static <T> T pickRandom (T a, T b) {
-            return Math.random() > 0.5 ? a : b;
-        }
-
-
-        //-------------
 
         int randNum = pickRandom(123, 456);
         boolean randBool = pickRandom(true, false);
@@ -25,14 +18,7 @@ public class Main {
         double randDbl = pickRandom(12, 34);
 
 
-        //-------------
-
-        public static <T> void arraySwap (T[] array, int a, int b) {
-            if (array.length <= Math.max(a, b)) return;
-            T temp = array[a];
-            array[a] = array[b];
-            array[b] = temp;
-        }
+        //-------
 
         //  원시값 배열(double[])을 쓰면 오류 - 배열로는 오토박싱이 안 되므로
         var array1 = new Double[] {
@@ -53,5 +39,20 @@ public class Main {
                     (int) Math.floor(Math.random() * array2.length)
             );
         }
+
     }
+        //  제네릭 메소드
+        //  T : 타입변수. 원하는 어떤 이름으로든 명명 가능
+        public static <T> T pickRandom (T a, T b) {
+            return Math.random() > 0.5 ? a : b;
+        }
+
+        //-------------
+
+        public static <T> void arraySwap (T[] array, int a, int b) {
+            if (array.length <= Math.max(a, b)) return;
+            T temp = array[a];
+            array[a] = array[b];
+            array[b] = temp;
+        }
 }
