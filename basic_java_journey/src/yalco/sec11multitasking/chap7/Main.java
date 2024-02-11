@@ -7,7 +7,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ForkJoinPool;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-import yalco.sec07ClassAndReferenceType.chap04Game.*;
+import yalco.sec07ClassAndReferenceType.chap04.*;
 
 public class Main {
 	public static void main(String[] args) {

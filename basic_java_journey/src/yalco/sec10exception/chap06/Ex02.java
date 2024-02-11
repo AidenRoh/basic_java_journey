@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.Optional;
 import java.util.Random;
 import java.util.stream.*;
-import yalco.sec07ClassAndReferenceType.chap04Game.*;
+import yalco.sec07ClassAndReferenceType.chap04.*;
 
 public class Ex02 {
 

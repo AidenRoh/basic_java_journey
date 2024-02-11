@@ -1,6 +1,6 @@
 package yalco.sec10exception.chap03;
 
-import yalco.sec07ClassAndReferenceType.chap04Game.*;
+import yalco.sec07ClassAndReferenceType.chap04.*;
 
 public class Ex04 {
 

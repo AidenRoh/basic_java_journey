@@ -1,7 +1,7 @@
 package yalco.sec10exception.chap03;
 
-import yalco.sec07ClassAndReferenceType.chap04Game.Side;
-import yalco.sec07ClassAndReferenceType.chap04Game.Unit;
+import yalco.sec07ClassAndReferenceType.chap04.Side;
+import yalco.sec07ClassAndReferenceType.chap04.Unit;
 
 class Dragon extends Unit {
 	public Dragon(Side side) {

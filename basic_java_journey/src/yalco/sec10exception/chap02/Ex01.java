@@ -1,7 +1,7 @@
 package yalco.sec10exception.chap02;
 
 import java.util.stream.IntStream;
-import yalco.sec07ClassAndReferenceType.chap04Game.*;
+import yalco.sec07ClassAndReferenceType.chap04.*;
 
 public class Ex01 {
 	public static void tryThings1 (int i) {

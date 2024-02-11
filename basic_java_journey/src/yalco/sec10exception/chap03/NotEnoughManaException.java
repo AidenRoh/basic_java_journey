@@ -1,6 +1,6 @@
 package yalco.sec10exception.chap03;
 
-import yalco.sec07ClassAndReferenceType.chap04Game.MagicKnight;
+import yalco.sec07ClassAndReferenceType.chap04.MagicKnight;
 
 public class NotEnoughManaException extends RuntimeException {
 	public NotEnoughManaException(MagicKnight mk, int neededMana) {

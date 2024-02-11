@@ -1,7 +1,7 @@
 package yalco.sec10exception.chap02;
 
 import java.util.stream.IntStream;
-import yalco.sec07ClassAndReferenceType.chap04Game.*;
+import yalco.sec07ClassAndReferenceType.chap04.*;
 
 public class Ex02 {
 	public static void withFinally1 (boolean makeException) {
