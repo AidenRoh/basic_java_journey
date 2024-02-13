@@ -3,7 +3,7 @@ package yalco.sec11multitasking.chap9;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
-public class Ex02 {
+public class  Ex02 {
 	public static void main(String[] args) {
 		Map<String, Integer> hashMap = new HashMap<>();
 

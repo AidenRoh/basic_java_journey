@@ -1,5 +1,9 @@
 package yalco.sec12dataIOandnetworking.chap01;
 
+import java.io.File;
+import java.io.IOException;
+import java.util.stream.IntStream;
+
 public class Ex03 {
 	public static void main(String[] args) {
 
